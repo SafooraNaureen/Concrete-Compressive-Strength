@@ -20,7 +20,7 @@ Html website built by viewing the model deployment video on youtube by "Indian A
 
 Python Version: 3.8
 
-Packages: pandas, numpy, sklearn, matplotlib, seaborn, flask, json, pickle, html.
+Packages: pandas, numpy, sklearn, matplotlib, seaborn, flask, json, pickle.
 
 ## Dataset
 
